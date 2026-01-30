@@ -1,4 +1,4 @@
-## Hello 👋
+# Hello 👋
 I'm a new programmer and I don't have much experience yet, but I'm really looking forward to working on real projects!
 
 # 💻 Tech Stack:
